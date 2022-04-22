@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5402cc75-87ab-44b2-96b2-bb60117f09fd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="27e1NYqYTiCxF0oAHn3pOzB0V9f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/Документы/projects/employers&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5402cc75-87ab-44b2-96b2-bb60117f09fd" name="Changes" comment="" />
+      <created>1649665697594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649665697594</updated>
+      <workItem from="1649665698653" duration="2713000" />
+      <workItem from="1649674141436" duration="1583000" />
+      <workItem from="1649675807465" duration="212000" />
+      <workItem from="1649683381048" duration="38000" />
+      <workItem from="1650525056450" duration="6854000" />
+      <workItem from="1650539801383" duration="72000" />
+      <workItem from="1650556790145" duration="3051000" />
+      <workItem from="1650611680827" duration="611000" />
+      <workItem from="1650619584350" duration="1406000" />
+      <workItem from="1650622603373" duration="712000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created a new project Employees:&#10;&#10;- created some components;&#10;- added necessary libraries;">
+      <created>1649667755155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649667755155</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created a new project Employees:&#10;&#10;- created some components;&#10;- added necessary libraries;">
+      <created>1650525080476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650525080476</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created a new project Employees:&#10;&#10;- created some components;&#10;- added necessary libraries;">
+      <created>1650560696392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650560696392</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created a new project Employees:&#10;&#10;- updated an employees-list-item component in the class format;">
+      <created>1650622362920</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650622362920</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created a new project Employees:&#10;&#10;- updated an employees-list-item component in the class format;">
+      <created>1650623204844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650623204844</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created a new project Employees:&#10;&#10;- created some components;&#10;- added necessary libraries;" />
+    <MESSAGE value="Created a new project Employees:&#10;&#10;- updated an employees-list-item component in the class format;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a new project Employees:&#10;&#10;- updated an employees-list-item component in the class format;" />
+  </component>
+</project>
