@@ -54,6 +54,7 @@
     opacity: 1;
     transform: translateX(0px);
 }
+/*for change color cookie* class increase*/
 
 .list-group-item.increase .list-group-item-label, .list-group-item.increase .list-group-item-input {
     color: #e09f3e;
