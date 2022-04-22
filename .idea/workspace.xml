@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5402cc75-87ab-44b2-96b2-bb60117f09fd" name="Changes" comment="" />
+    <list default="true" id="5402cc75-87ab-44b2-96b2-bb60117f09fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/employees-list-item/employees-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-list-item/employees-list-item.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +35,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="master1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,7 +95,7 @@
       <workItem from="1650556790145" duration="3051000" />
       <workItem from="1650611680827" duration="611000" />
       <workItem from="1650619584350" duration="1406000" />
-      <workItem from="1650622603373" duration="712000" />
+      <workItem from="1650622603373" duration="3108000" />
     </task>
     <task id="LOCAL-00001" summary="Created a new project Employees:&#10;&#10;- created some components;&#10;- added necessary libraries;">
       <created>1649667755155</created>
@@ -128,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650623204844</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created a new project Employees:&#10;&#10;- updated an employees-list-item component in the class format;">
+      <created>1650623453728</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650623453728</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
