@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5402cc75-87ab-44b2-96b2-bb60117f09fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/employees-add-form/employees-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-add-form/employees-add-form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/employees-list-item/employees-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-list-item/employees-list-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/employees-list/employees-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/employees-list/employees-list.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +34,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master1" />
+        <entry key="$PROJECT_DIR$" value="step10" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,6 +107,8 @@
       <workItem from="1651160905129" duration="1622000" />
       <workItem from="1651215439465" duration="606000" />
       <workItem from="1651226901801" duration="3360000" />
+      <workItem from="1651391295864" duration="65000" />
+      <workItem from="1651393074040" duration="4661000" />
     </task>
     <task id="LOCAL-00001" summary="Created a new project Employees:&#10;&#10;- created some components;&#10;- added necessary libraries;">
       <created>1649667755155</created>
