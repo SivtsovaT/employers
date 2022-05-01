@@ -42,6 +42,8 @@ class EmployeesAddForm  extends Component{
                            onChange={this.onValueChange}
                            name ='name'
                            value={name}
+                           minLength={3}
+                           required='required'
                     />
                     <input type="number"
                            className="form-control new-post-label"
@@ -49,6 +51,8 @@ class EmployeesAddForm  extends Component{
                            onChange={this.onValueChange}
                            name = 'salary'
                            value={salaty}
+                           min={0}
+                           required='required'
                     />
 
                     <button type="submit"
