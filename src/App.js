@@ -50,9 +50,32 @@ class App extends Component {
             }
         })
     }
+    ////////// 1 variant  ////////////
+  /*  onToggleIncrease = (id) => {
+
+        this.setState(({data}) => {
+
+             const index = data.findIndex(elem => elem.id === id);
+              const old = data[index];
+              const newItem = {...old, increase: !old.increase};
+              const newArr = [...data.slice(0, index), newItem, ...data.slice(index + 1)];
+              return {
+                  data: newArr
+              }
+        })
+
+    }*/
+    ///////// 2 variant /////////
 
     onToggleIncrease = (id) => {
-       console.log(`Increase this ${id}`);
+       this.setState(({data}) => ({
+           data: data.map(item => {
+               if(item.id === id) {
+                   return {...item, increase: !item.increase}
+               }
+               return item;
+           })
+       }))
     }
     onToggleRise = (id) => {
         console.log(`Rise this ${id}`)
