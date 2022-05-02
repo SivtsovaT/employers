@@ -4,6 +4,7 @@
     <list default="true" id="5402cc75-87ab-44b2-96b2-bb60117f09fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-filter/app-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-filter/app-filter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +111,10 @@
       <workItem from="1651226901801" duration="3360000" />
       <workItem from="1651391295864" duration="65000" />
       <workItem from="1651393074040" duration="4661000" />
-      <workItem from="1651407479120" duration="718000" />
+      <workItem from="1651407479120" duration="3119000" />
+      <workItem from="1651474433299" duration="118000" />
+      <workItem from="1651480090255" duration="767000" />
+      <workItem from="1651491674749" duration="5646000" />
     </task>
     <task id="LOCAL-00001" summary="Created a new project Employees:&#10;&#10;- created some components;&#10;- added necessary libraries;">
       <created>1649667755155</created>
@@ -175,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651401531370</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- added finding">
+      <created>1651408210842</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651408210843</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +210,7 @@
     <MESSAGE value="- realised deleting" />
     <MESSAGE value="- realised total info &amp; increase" />
     <MESSAGE value="- added form validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added form validation" />
+    <MESSAGE value="- added finding" />
+    <option name="LAST_COMMIT_MESSAGE" value="- added finding" />
   </component>
 </project>
